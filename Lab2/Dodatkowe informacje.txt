@@ -1,0 +1,18 @@
+Kompilacja:
+Program najłatwiej uruchomić za pomocą komendy:
+py main.py
+
+Program korzysta z następujących bibliotek:
+pandas
+matplotlib
+numpy
+shutil
+errno
+
+W razie ich braku należy skorzystać na Windowsie z komendy:
+python -m pip install -U nazwa_biblioteki
+
+
+Inne informacje:
+W paczce z kodami znajduje się folder Wykresy, w którym wygenerowane jest dużo więcej wykresów dla róznych ilości węzłów, 
+dodatkowo program wyświetla najmniejsze błędy.
