@@ -1,0 +1,3 @@
+C:/Users/adria/OneDrive/Pulpit/Adrian Żerebiec Zestaw 0/Kody/cmake-build-debug/CMakeFiles/Mownit.dir
+C:/Users/adria/OneDrive/Pulpit/Adrian Żerebiec Zestaw 0/Kody/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adria/OneDrive/Pulpit/Adrian Żerebiec Zestaw 0/Kody/cmake-build-debug/CMakeFiles/rebuild_cache.dir
