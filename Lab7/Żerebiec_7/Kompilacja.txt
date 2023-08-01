@@ -1,0 +1,12 @@
+Kompilacja:
+Program najłatwiej uruchomić za pomocą komendy:
+py main.py
+
+Program korzysta z następujących bibliotek:
+pandas
+numpy
+time
+os
+
+W razie ich braku należy skorzystać na Windowsie z komendy:
+python -m pip install -U nazwa_bibliotekiA
